@@ -2,9 +2,6 @@ h1 {
   background-color: aqua;
 }
 
-#container {
-}
-
 #top-container {
   background-color: yellow;
   display: flex;
@@ -39,7 +36,6 @@ h1 {
   position: absolute;
   border-radius: 50%;
   z-index: 1;
-  justify-content: center;
 }
 
 #title {
